@@ -1,0 +1,322 @@
+{
+  "id": "string",
+  "parentAgreementId": 0,
+  "modificationType": {
+    "hrn": "string",
+    "name": "string",
+    "description": "string",
+    "active": true
+  },
+  "modificationSummary": "string",
+  "modificationComments": "string",
+  "isAgreementModificationInProcess": true,
+  "title": "string",
+  "firstdraftTobeGeneratedInternally": true,
+  "generalInformationComments": "string",
+  "otherComments": "string",
+  "dateCreated": "2022-05-07T00:03:47.954Z",
+  "dateModified": "2022-05-07T00:03:47.954Z",
+  "active": true,
+  "principalInvestigator": {
+    "hrn": "string",
+    "id": "string",
+    "active": true,
+    "firstName": "string",
+    "lastName": "string",
+    "contactInformation": {
+      "addressLine1": "string",
+      "addressLine2": "string",
+      "city": "string",
+      "stateProvince": "string",
+      "postalCode": 0,
+      "country": "string",
+      "phone": "string",
+      "email": "string",
+      "website": "string"
+    }
+  },
+  "primaryContact": {
+    "hrn": "string",
+    "id": "string",
+    "active": true,
+    "firstName": "string",
+    "lastName": "string",
+    "contactInformation": {
+      "addressLine1": "string",
+      "addressLine2": "string",
+      "city": "string",
+      "stateProvince": "string",
+      "postalCode": 0,
+      "country": "string",
+      "phone": "string",
+      "email": "string",
+      "website": "string"
+    }
+  },
+  "agreementType": {
+    "hrn": "string",
+    "name": "string",
+    "description": "string",
+    "active": true
+  },
+  "responsibleUnit": {
+    "hrn": "string",
+    "name": "string",
+    "id": "string",
+    "active": true,
+    "dateCreated": "2022-05-07T00:03:47.954Z",
+    "dateModified": "2022-05-07T00:03:47.954Z",
+    "contactInformation": {
+      "addressLine1": "string",
+      "addressLine2": "string",
+      "city": "string",
+      "stateProvince": "string",
+      "postalCode": 0,
+      "country": "string",
+      "phone": "string",
+      "email": "string",
+      "website": "string"
+    }
+  },
+  "agreementDraftDocument": {
+    "name": "string",
+    "url": "string"
+  },
+  "otherPersonnel": [
+    {
+      "hrn": "string",
+      "id": "string",
+      "active": true,
+      "firstName": "string",
+      "lastName": "string",
+      "contactInformation": {
+        "addressLine1": "string",
+        "addressLine2": "string",
+        "city": "string",
+        "stateProvince": "string",
+        "postalCode": 0,
+        "country": "string",
+        "phone": "string",
+        "email": "string",
+        "website": "string"
+      }
+    }
+  ],
+  "counterParties": [
+    {
+      "organization": {
+        "hrn": "string",
+        "name": "string",
+        "id": "string",
+        "active": true,
+        "dateCreated": "2022-05-07T00:03:47.954Z",
+        "dateModified": "2022-05-07T00:03:47.954Z",
+        "contactInformation": {
+          "addressLine1": "string",
+          "addressLine2": "string",
+          "city": "string",
+          "stateProvince": "string",
+          "postalCode": 0,
+          "country": "string",
+          "phone": "string",
+          "email": "string",
+          "website": "string"
+        }
+      },
+      "person": {
+        "hrn": "string",
+        "id": "string",
+        "active": true,
+        "firstName": "string",
+        "lastName": "string",
+        "contactInformation": {
+          "addressLine1": "string",
+          "addressLine2": "string",
+          "city": "string",
+          "stateProvince": "string",
+          "postalCode": 0,
+          "country": "string",
+          "phone": "string",
+          "email": "string",
+          "website": "string"
+        }
+      },
+      "counterPartyName": "string",
+      "contactPersonName": "string",
+      "contactInformation": {
+        "addressLine1": "string",
+        "addressLine2": "string",
+        "city": "string",
+        "stateProvince": "string",
+        "postalCode": 0,
+        "country": "string",
+        "phone": "string",
+        "email": "string",
+        "website": "string"
+      }
+    }
+  ],
+  "supportingDocuments": [
+    {
+      "name": "string",
+      "url": "string"
+    }
+  ],
+  "activityState": {
+    "activityId": 0,
+    "id": "string",
+    "description": "string"
+  },
+  "workflowStatus": {
+    "id": 0,
+    "code": "string",
+    "description": "string"
+  },
+  "owner": {
+    "hrn": "string",
+    "id": "string",
+    "active": true,
+    "firstName": "string",
+    "lastName": "string",
+    "contactInformation": {
+      "addressLine1": "string",
+      "addressLine2": "string",
+      "city": "string",
+      "stateProvince": "string",
+      "postalCode": 0,
+      "country": "string",
+      "phone": "string",
+      "email": "string",
+      "website": "string"
+    }
+  },
+  "office": {
+    "id": 0,
+    "name": "string",
+    "agreementTypes": [
+      {
+        "hrn": "string",
+        "name": "string",
+        "description": "string",
+        "active": true
+      }
+    ],
+    "persons": [
+      {
+        "hrn": "string",
+        "id": "string",
+        "active": true,
+        "firstName": "string",
+        "lastName": "string",
+        "contactInformation": {
+          "addressLine1": "string",
+          "addressLine2": "string",
+          "city": "string",
+          "stateProvince": "string",
+          "postalCode": 0,
+          "country": "string",
+          "phone": "string",
+          "email": "string",
+          "website": "string"
+        }
+      }
+    ],
+    "active": true,
+    "dateCreated": "2022-05-07T00:03:47.954Z",
+    "dateModified": "2022-05-07T00:03:47.954Z"
+  },
+  "nextFollowUpDate": "2022-05-07T00:03:47.954Z",
+  "effectiveDate": "2022-05-07T00:03:47.954Z",
+  "expirationDate": "2022-05-07T00:03:47.954Z",
+  "agreementTypeData": {
+    "directionMaterialTransfer": {
+      "hrn": "string",
+      "name": "string",
+      "description": "string",
+      "active": true
+    },
+    "description": "string",
+    "origin": {
+      "hrn": "string",
+      "name": "string",
+      "description": "string",
+      "active": true
+    },
+    "originOther": "string",
+    "fundingProjects": [
+      {
+        "id": "string",
+        "name": "string",
+        "projectType": "string",
+        "stateId": "string"
+      }
+    ],
+    "fundingProjectOther": "string",
+    "fundingProjectDocuments": [
+      {
+        "name": "string",
+        "url": "string"
+      }
+    ],
+    "sowDocuments": [
+      {
+        "name": "string",
+        "url": "string"
+      }
+    ],
+    "sowDescription": "string",
+    "sowFundSource": {
+      "hrn": "string",
+      "name": "string",
+      "description": "string",
+      "active": true
+    },
+    "sowFundingProjects": [
+      {
+        "id": "string",
+        "name": "string",
+        "projectType": "string",
+        "stateId": "string"
+      }
+    ],
+    "sowFundingProjectOther": "string",
+    "sowFundingProjectDocuments": [
+      {
+        "name": "string",
+        "url": "string"
+      }
+    ],
+    "isExportingOutsideUsa": true,
+    "exportingCountry": {
+      "hrn": "string",
+      "name": "string",
+      "description": "string",
+      "active": true
+    },
+    "isReimbursable": true,
+    "reimbursementAmount": 0,
+    "isSubjectToPatent": true,
+    "pocTechTransfer": {
+      "hrn": "string",
+      "id": "string",
+      "active": true,
+      "firstName": "string",
+      "lastName": "string",
+      "contactInformation": {
+        "addressLine1": "string",
+        "addressLine2": "string",
+        "city": "string",
+        "stateProvince": "string",
+        "postalCode": 0,
+        "country": "string",
+        "phone": "string",
+        "email": "string",
+        "website": "string"
+      }
+    },
+    "pocTechTransferOther": "string"
+  },
+  "actions": [
+    "string"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "meetingdate": "12/12/12",
+    "attendees": [
+        {
+            "name": "peter",
+            "status": "present"
+        },{
+            "name": "peter",
+            "status": "present"
+        },{
+            "name": "peter",
+            "status": "present"
+        },{
+            "name": "peter",
+            "status": "present"
+        },{
+            "name": "peter",
+            "status": "present"
+        },{
+            "name": "peter",
+            "status": "present"
+        },{
+            "name": "peter",
+            "status": "present"
+        },
+    ]
+}
