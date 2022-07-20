@@ -27,7 +27,7 @@
       "addressLine1": "string",
       "addressLine2": "string",
       "city": "string",
-      "stateProvince": "string",
+      "stateProvince": "int",
       "postalCode": 0,
       "country": "string",
       "phone": "string",

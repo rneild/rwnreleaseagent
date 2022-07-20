@@ -6,7 +6,7 @@
             "status": "present"
         },{
             "name": "peter",
-            "status": "present"
+            "status": "absent"
         },{
             "name": "peter",
             "status": "present"
